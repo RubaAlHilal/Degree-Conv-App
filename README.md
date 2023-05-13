@@ -1,5 +1,5 @@
-# Mobile-and-wireless-computing
-<p>This repository contains the worksheets and final project of Mobile and Wireless Computing IT342 course. The tools used in developing the apps are Android Studio and Firebase and the used language is Java.</p>
+# Degree-Conversion-App
+<p>This is an Android application that Allows user to convert from Celsius to Fahrenheit</p>
 
 <br>
 
